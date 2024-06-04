@@ -1,6 +1,6 @@
 package _01_Variables;
 
-public class _03_Asignaciones {
+public class _02_Asignaciones {
 
 	public static void main(String arg[]){
 		//Ensanchamiento

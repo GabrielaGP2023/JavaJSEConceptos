@@ -1,6 +1,6 @@
 package _01_Variables;
 
-public class JavaTypes{
+public class _03TiposPrimitivos {
 	
 	private int $int = 1_0_0_0;
 	private byte $byte = 123;
@@ -14,7 +14,7 @@ public class JavaTypes{
 		
 	public static void main(String args[]){		
 		System.out.println("---Variables de instancia");	
-		JavaTypes obj1 = new JavaTypes();
+		_03TiposPrimitivos obj1 = new _03TiposPrimitivos();
 		System.out.println(obj1.$int);
 		System.out.println(obj1.$byte);
 		System.out.println(obj1.$long);

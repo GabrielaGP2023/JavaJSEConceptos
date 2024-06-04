@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd8c113-9ce8-4b6b-a903-ee8538509c14" name="Changes" comment="" />
+    <list default="true" id="1cd8c113-9ce8-4b6b-a903-ee8538509c14" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Variables/_01_Declaraciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Variables/_01_Declaraciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Variables/_02_Asignaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Variables/_02_Asignaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Variables/_03TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Variables/_03TiposPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_OperadoresAritmeticos/_01_PreIncrementoPostIncremento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_OperadoresAritmeticos/_01_PreIncrementoPostIncremento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03ClaseString/_01Metodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03ClaseString/_01Metodos.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GabrielaGP2023"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GabrielaGP2023/JavaJSEConceptos.git",
+    "accountId": "5975c73b-0774-4d45-9f9b-c435789128a3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -21,11 +51,70 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Asignaciones.executor": "Run",
+    "Application._01Metodos.executor": "Run",
+    "Application._01_PreIncrementoPostIncremento.executor": "Run",
+    "Application._03_Asignaciones.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/JavaJSEConceptos/src/_01_Variables"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_01_Variables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._01Metodos">
+    <configuration name="_01Metodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03ClaseString._01Metodos" />
+      <module name="JavaJSEConceptos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_03ClaseString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_PreIncrementoPostIncremento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_OperadoresAritmeticos._01_PreIncrementoPostIncremento" />
+      <module name="JavaJSEConceptos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_02_OperadoresAritmeticos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_Asignaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Variables._02_Asignaciones" />
+      <module name="JavaJSEConceptos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._01Metodos" />
+        <item itemvalue="Application._01_PreIncrementoPostIncremento" />
+        <item itemvalue="Application._02_Asignaciones" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
