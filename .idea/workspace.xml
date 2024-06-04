@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd8c113-9ce8-4b6b-a903-ee8538509c14" name="Changes" comment="">
+    <list default="true" id="1cd8c113-9ce8-4b6b-a903-ee8538509c14" name="Changes" comment="Commit de las 14:36">
+      <change afterPath="$PROJECT_DIR$/src/_01_Variables/_04Convirtiendo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Operadores/_00Operadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Operadores/_02_Expresiones_sentencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Operadores/_03Comparacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03ClaseString/_02Metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03ClaseString/_03Constructores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03ClaseString/_04StringBuilderData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04PaqueteTime/_01LocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04PaqueteTime/_02LocalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04PaqueteTime/_03LocalDateTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Variables/_01_Declaraciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Variables/_01_Declaraciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Variables/_02_Asignaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Variables/_02_Asignaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Variables/_03TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Variables/_03TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_OperadoresAritmeticos/_01_PreIncrementoPostIncremento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_OperadoresAritmeticos/_01_PreIncrementoPostIncremento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03ClaseString/_01Metodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03ClaseString/_01Metodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_OperadoresAritmeticos/_01_PreIncrementoPostIncremento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Operadores/_01_PreIncrementoPostIncremento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,23 +33,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GabrielaGP2023"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GabrielaGP2023&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GabrielaGP2023/JavaJSEConceptos.git",
-    "accountId": "5975c73b-0774-4d45-9f9b-c435789128a3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GabrielaGP2023/JavaJSEConceptos.git&quot;,
+    &quot;accountId&quot;: &quot;5975c73b-0774-4d45-9f9b-c435789128a3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2hP9tSifWgj4yTZFpS7PSotdlI6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,24 +59,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Asignaciones.executor": "Run",
+    "Application.ExpressionAndStatements.executor": "Run",
+    "Application.StringConcatenacion.executor": "Run",
+    "Application.StringInterning.executor": "Run",
+    "Application._00Operadores.executor": "Run",
+    "Application._01LocalDate.executor": "Run",
     "Application._01Metodos.executor": "Run",
     "Application._01_PreIncrementoPostIncremento.executor": "Run",
+    "Application._02LocalTime.executor": "Run",
+    "Application._03Comparacion.executor": "Run",
+    "Application._03LocalDateTime.executor": "Run",
     "Application._03_Asignaciones.executor": "Run",
+    "Application._04Parseando.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/JavaJSEConceptos/src/_01_Variables"
+    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/JavaJSEConceptos/src/_03ClaseString"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_03ClaseString" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_02_OperadoresAritmeticos" />
       <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_01_Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._01Metodos">
-    <configuration name="_01Metodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03ClaseString._01Metodos" />
+  <component name="RunManager" selected="Application._03Comparacion">
+    <configuration name="StringInterning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03ClaseString.StringInterning" />
       <module name="JavaJSEConceptos" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_PreIncrementoPostIncremento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_OperadoresAritmeticos._01_PreIncrementoPostIncremento" />
+    <configuration name="_01LocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04PaqueteTime._01LocalDate" />
       <module name="JavaJSEConceptos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_OperadoresAritmeticos.*" />
+          <option name="PATTERN" value="_04PaqueteTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +112,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_Asignaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_Variables._02_Asignaciones" />
+    <configuration name="_02LocalTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04PaqueteTime._02LocalTime" />
       <module name="JavaJSEConceptos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_Variables.*" />
+          <option name="PATTERN" value="_04PaqueteTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03Comparacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_Operadores._03Comparacion" />
+      <module name="JavaJSEConceptos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_02_Operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03LocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04PaqueteTime._03LocalDateTime" />
+      <module name="JavaJSEConceptos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_04PaqueteTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,9 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._01Metodos" />
-        <item itemvalue="Application._01_PreIncrementoPostIncremento" />
-        <item itemvalue="Application._02_Asignaciones" />
+        <item itemvalue="Application._03Comparacion" />
+        <item itemvalue="Application._03LocalDateTime" />
+        <item itemvalue="Application._02LocalTime" />
+        <item itemvalue="Application._01LocalDate" />
+        <item itemvalue="Application.StringInterning" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +170,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717485066107</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit de las 14:36">
+      <option name="closed" value="true" />
+      <created>1717504649523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717504649523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit de las 14:36" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de las 14:36" />
   </component>
 </project>

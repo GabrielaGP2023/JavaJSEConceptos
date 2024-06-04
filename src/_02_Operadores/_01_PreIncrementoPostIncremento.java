@@ -1,4 +1,4 @@
-package _02_OperadoresAritmeticos;
+package _02_Operadores;
 
 public class _01_PreIncrementoPostIncremento {
 
