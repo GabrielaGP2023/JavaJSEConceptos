@@ -23,6 +23,8 @@ public class _02Metodos {
 		//Concat y Uppercase
 		System.out.println("hello".concat(" world"));
 		System.out.println("lima".toUpperCase());
+
+		System.out.println("Probar pull");
 	}
 
 }
