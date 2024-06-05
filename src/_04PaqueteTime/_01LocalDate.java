@@ -1,16 +1,18 @@
 package _04PaqueteTime;
 
 import java.time.LocalDate;
+import java.time.Month;
 
 public class _01LocalDate {
     public static void main(String[] args) {
+
         LocalDate fechaActual = LocalDate.now();
         System.out.println("Fecha actual: " + fechaActual);
         LocalDate fechaEspecifica = LocalDate.of(2024, 6, 4); // Año, mes, día
         System.out.println("Fecha específica: " + fechaEspecifica);
         LocalDate fechaParseada = LocalDate.parse("2024-06-04");
         System.out.println("Fecha parseada: " + fechaParseada);
-        LocalDate fecha = LocalDate.of(2024, 6, 4);
+        LocalDate fecha = LocalDate.of(2024, Month.AUGUST, 4);
 
         LocalDate fechaMasDias = fecha.plusDays(10);
         LocalDate fechaMasSemanas = fecha.plusWeeks(2);

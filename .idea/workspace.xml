@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd8c113-9ce8-4b6b-a903-ee8538509c14" name="Changes" comment="Clase 5 Junio - probando pull">
-      <change afterPath="$PROJECT_DIR$/src/_05EstructurasControl/_01If.java" afterDir="false" />
+    <list default="true" id="1cd8c113-9ce8-4b6b-a903-ee8538509c14" name="Changes" comment="Clase 5 Junio - condicional">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_Operadores/_02_Expresiones_sentencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Operadores/_02_Expresiones_sentencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04PaqueteTime/_01LocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04PaqueteTime/_01LocalDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04PaqueteTime/_02LocalTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04PaqueteTime/_02LocalTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05EstructurasControl/_01If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05EstructurasControl/_01If.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/JavaJSEConceptos/src/_03ClaseString"
+    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/JavaJSEEjercicios"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,7 +79,7 @@
       <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_01_Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._01If">
+  <component name="RunManager" selected="Application._01LocalDate">
     <configuration name="_01If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_05EstructurasControl._01If" />
       <module name="JavaJSEConceptos" />
@@ -92,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02LocalTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04PaqueteTime._02LocalTime" />
+    <configuration name="_01LocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04PaqueteTime._01LocalDate" />
       <module name="JavaJSEConceptos" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._01LocalDate" />
         <item itemvalue="Application._01If" />
         <item itemvalue="Application._03Comparacion" />
         <item itemvalue="Application._02_Expresiones_sentencias" />
         <item itemvalue="Application._03LocalDateTime" />
-        <item itemvalue="Application._02LocalTime" />
       </list>
     </recent_temporary>
   </component>
@@ -187,13 +188,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717580620013</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clase 5 Junio - condicional">
+      <option name="closed" value="true" />
+      <created>1717582098211</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717582098211</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit de las 14:36" />
     <MESSAGE value="Clase 5 Junio" />
     <MESSAGE value="Clase 5 Junio - probando pull" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase 5 Junio - probando pull" />
+    <MESSAGE value="Clase 5 Junio - condicional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase 5 Junio - condicional" />
   </component>
 </project>

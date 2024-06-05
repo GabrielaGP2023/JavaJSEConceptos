@@ -9,5 +9,6 @@ public class _01If {
             System.out.println("No tiene descuento");
         }
 
+
     }
 }

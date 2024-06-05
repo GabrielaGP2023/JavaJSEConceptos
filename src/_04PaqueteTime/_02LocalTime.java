@@ -15,7 +15,7 @@ public class _02LocalTime {
                 System.out.println("Hora específica: " + horaEspecifica);
 
                 // Parsear una hora a partir de una cadena
-                LocalTime horaParseada = LocalTime.parse("14:30:45");
+                LocalTime horaParseada = LocalTime.parse("14:30:45.54");
                 System.out.println("Hora parseada: " + horaParseada);
 
                 LocalTime hora = LocalTime.of(14, 30, 45);
