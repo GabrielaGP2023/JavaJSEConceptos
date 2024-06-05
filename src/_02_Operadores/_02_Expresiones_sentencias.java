@@ -11,7 +11,7 @@ public class _02_Expresiones_sentencias {
 		System.out.println(a = 25); //25
 		
 		int d = (a = a + b);	//sí compila
-		System.out.println(d);	//30
+		System.out.println(d);
 		
 		System.out.println(a = a + b); //30
 		
