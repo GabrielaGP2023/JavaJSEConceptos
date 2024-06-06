@@ -1,6 +1,6 @@
 package _05EstructurasControl;
 
-public class Switch{
+public class _02Switch {
 
 
 		public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package _02_Operadores;
 
-public class _02OperadoresLogicos {
+public class _04OperadoresLogicos {
     public static void main(String[] args) {
 
         int edad = 19;

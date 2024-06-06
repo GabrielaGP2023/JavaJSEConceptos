@@ -18,8 +18,6 @@ public class _00Operadores{
 			--a; // a--
 			System.out.println(a); // de 12 a 11
 			
-
-			
 			//complemento lógico
 			boolean expr1 = false;
 			boolean expr2 = !expr1; 
