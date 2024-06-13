@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd8c113-9ce8-4b6b-a903-ee8538509c14" name="Changes" comment="Clase 7 Junio - bucles">
-      <change afterPath="$PROJECT_DIR$/src/_01_Variables/_06Arrays.java" afterDir="false" />
+    <list default="true" id="1cd8c113-9ce8-4b6b-a903-ee8538509c14" name="Changes" comment="Final de Clase 7 Junio - bucles">
+      <change afterPath="$PROJECT_DIR$/src/_01_Variables/_08Ordenar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Variables/_09EjemploOrdenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Variables/_10Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Variables/_11Matrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05EstructurasControl/_04Bucles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05EstructurasControl/_03Bucles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05EstructurasControl/_03Bucles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Variables/_06Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Variables/_06Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,41 +70,32 @@
     "Application._03Comparacion.executor": "Run",
     "Application._03LocalDateTime.executor": "Run",
     "Application._03_Asignaciones.executor": "Run",
+    "Application._04Bucles.executor": "Run",
     "Application._04Parseando.executor": "Run",
     "Application._05Ternary.executor": "Run",
     "Application._06Arrays.executor": "Debug",
+    "Application._10Random.executor": "Run",
+    "Application._11Matrices.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/JavaJSEConceptos/src/_05EstructurasControl"
+    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/JavaJSEConceptos/src/_06Test"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_06Test" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_01_Variables" />
       <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_05EstructurasControl" />
       <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_03ClaseString" />
       <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_02_OperadoresAritmeticos" />
-      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\JavaJSEConceptos\src\_01_Variables" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="_01_Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._06Arrays">
-    <configuration name="_02Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05EstructurasControl._02Switch" />
-      <module name="JavaJSEConceptos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_02_Operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._11Matrices">
     <configuration name="_03Bucles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_05EstructurasControl._03Bucles" />
       <module name="JavaJSEConceptos" />
@@ -114,25 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_Operadores._04OperadoresLogicos" />
+    <configuration name="_04Bucles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05EstructurasControl._04Bucles" />
       <module name="JavaJSEConceptos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_Operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_05Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_Operadores._05Ternary" />
-      <module name="JavaJSEConceptos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_02_Operadores.*" />
+          <option name="PATTERN" value="_05EstructurasControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +135,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_10Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Variables._10Random" />
+      <module name="JavaJSEConceptos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11Matrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Variables._11Matrices" />
+      <module name="JavaJSEConceptos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._11Matrices" />
+        <item itemvalue="Application._04Bucles" />
+        <item itemvalue="Application._10Random" />
         <item itemvalue="Application._06Arrays" />
         <item itemvalue="Application._03Bucles" />
-        <item itemvalue="Application._05Ternary" />
-        <item itemvalue="Application._04OperadoresLogicos" />
-        <item itemvalue="Application._02Switch" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717705390367</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Final de Clase 7 Junio - bucles">
+      <option name="closed" value="true" />
+      <created>1717764804773</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717764804773</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +265,7 @@
     <MESSAGE value="Clase 5 Junio - condicional" />
     <MESSAGE value="Clase 6 Junio - switch - bucles" />
     <MESSAGE value="Clase 7 Junio - bucles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase 7 Junio - bucles" />
+    <MESSAGE value="Final de Clase 7 Junio - bucles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final de Clase 7 Junio - bucles" />
   </component>
 </project>
